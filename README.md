@@ -1,4 +1,4 @@
-# Mikeduino - My version of Arduino
+# Mikeduino - My version of Arduino Uno R3
 
 'Mikeduino' is a microcontroller card designed as a final project for the matter of Printed Circuits of the Electronics Engineering career.
 
