@@ -1,7 +1,6 @@
 # Mikeduino - My version of Arduino Uno R3
 
-'Mikeduino' is a microcontroller card designed as a final project for the matter of Printed Circuits of the Electronics Engineering career.
-
+"Mikeduino" is a microcontroller board designed as a final project for the subject of Printed Circuits of the Electronics Engineering career.
 
 ## Purpose
 It is based on the Open Source design of the Arduino Uno R3 Microcontroller, but with the intention of improving the following aspects:
