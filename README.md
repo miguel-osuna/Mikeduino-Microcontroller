@@ -1,0 +1,2 @@
+# Mikeduino-Microcontroller
+Mikeduino - My version of the Open Source Arduino  'Mikeduino' is a microcontroller card designed as a final project for the matter of Printed Circuits of the Electronics Engineering career.  It is based on the Open Source design of the Arduino Uno R3 Microcontroller, but with the intention of improving the following aspects:  - Power signals - Control signals - Micro-USB port - THT capacitor for improvement of power signal filtering  Altium Designer 18 design software was used for its creation.
