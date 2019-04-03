@@ -1,0 +1,5 @@
+How does it work: There are two microcontrollers on the Arduino board: ATMEGA328P (328P) and ATMEGA16U2 (16U2). 
+You can update firmware of 16U2 to become AVRISP MKII programmer and then use Atmel Studio to flash 328P.
+
+Tutorial: https://www.fedevel.com/welldoneblog/2015/04/how-to-flash-arduino-bootloader-without-a-programmer/
+

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Miguel Osuna\OneDrive\Documentos\Proyectos\PCB's Udemy\Mikeduino\Design Files\V1I1\Mikeduino_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Around Polygons|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Power Net Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

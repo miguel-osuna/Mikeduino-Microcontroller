@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Mikeduino.PrjPcb]
+   Generated File[Mikeduino_PCB.GTO]
+   Generated File[Mikeduino_PCB.GTP]
+   Generated File[Mikeduino_PCB.GTS]
+   Generated File[Mikeduino_PCB.GTL]
+   Generated File[Mikeduino_PCB.GBL]
+   Generated File[Mikeduino_PCB.GBS]
+   Generated File[Mikeduino_PCB.GBO]
+   Generated File[Mikeduino_PCB.GM1]
+   Generated File[Mikeduino_PCB.GM29]
+   Generated File[Mikeduino_PCB.GKO]
+   Generated File[Mikeduino_PCB.RUL]
+   Generated File[Mikeduino_PCB.EXTREP]
+   Generated File[Mikeduino_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 6:56:02 PM On 11/1/2018
